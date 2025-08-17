@@ -1,10 +1,10 @@
-## ❕서울 Ai Fellow 주관 포디아이비전 협업 프로젝트
+# ❕서울 Ai Fellow 주관 포디아이비전 협업 프로젝트❕
 
 ## 목표
 - LIBERO 데이터셋을 SmolVLA에 학습시키기
 - 학습 후 로봇 행동 결과를 오프스크린으로 시뮬레이팅 및 영상화해 보기
 
-### 파일 위치:
+## 파일 위치
 
 - SmolVLA모델이 CUDA에 잘 올라갔는지 확인하는 파일
 : lerobot/src/inference_trained_model.py
